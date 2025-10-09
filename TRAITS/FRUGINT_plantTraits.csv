@@ -1,0 +1,27 @@
+Plant_species;plantSp;Plant_class;Plant_order;Plant_family;Plant_genus;Plant_form;Disperser_taxa;Fruit_type;Fruit_diameter;Fruit_fresh_mass;Pulp_dry_mass;Seed_dry_mass;Seed_number;Lipid_prop;Protein_prop;CH_prop;Ash_prop;Fiber_prop;Fruit_color
+Chamaerops humilis;Cha.humi;Liliopsida;Arecales;Arecaceae;Chamaerops;Palm;Mammals;Drupe;13,9;1,712;0,652;0,669;1,0;0,013;0,032;0,772;0,036;0,183;Brown-red
+Asparagus acutifolius;Asp.acut;Liliopsida;Asparagales;Asparagaceae;Asparagus;Shrub;Birds;Berry;7,1;0,147;0,047;0,044;1,1;0,024;0,054;NA;0,086;NA;Blue-black
+Ruscus aculeatus;Rus.acul;Liliopsida;Asparagales;Asparagaceae;Ruscus;Shrub;Birds;Other;11,9;0,984;0,142;0,243;1,4;0,009;0,055;0,738;0,053;0,149;Red
+Dioscorea communis;Dio.comm;Liliopsida;Dioscoreales;Dioscoreaceae;Dioscorea;Vine;Birds;Berry;10,8;0,713;0,058;0,087;4,5;0,032;0,041;0,670;0,131;0,129;Red
+Smilax aspera;Smi.aspe;Liliopsida;Liliales;Smilacaceae;Smilax;Vine;Birds;Berry;7,3;0,192;0,025;0,039;1,5;0,021;0,053;0,685;0,087;0,157;Red-black
+Lonicera periclymenum;Lon.peri;Magnoliopsida;Dipsacales;Caprifoliaceae;Lonicera;Vine;Birds;Berry;6,8;0,180;0,030;0,022;3,9;0,068;0,047;0,773;0,035;0,076;Red
+Arbutus unedo;Arb.uned;Magnoliopsida;Ericales;Ericaceae;Arbutus;Tree;Mixed. Mainly Mammals;Berry;17,1;3,226;1,072;0,051;12,9;0,029;0,037;0,670;0,011;0,281;Red
+Corema album;Cor.albu;Magnoliopsida;Ericales;Ericaceae;Corema;Shrub;Mixed;Berry;6,6;0,158;0,010;0,030;3,0;0,058;0,022;0,771;0,037;0,112;White
+Rubia peregrina;Rub.pere;Magnoliopsida;Gentianales;Rubiaceae;Rubia;Vine;Mixed. Mainly Birds;Berry;6,1;0,101;0,012;0,011;1,2;0,099;0,052;0,645;0,059;0,148;Black
+Olea europaea;Ole.euro;Magnoliopsida;Lamiales;Oleaceae;Olea;Tree;Mixed. Mainly Birds;Drupe;8,8;0,620;0,090;0,221;1,0;0,419;0,079;0,333;0,016;0,159;Purple-black
+Phillyrea angustifolia;Phi.angu;Magnoliopsida;Lamiales;Oleaceae;Phillyrea;Shrub;Mixed. Mainly Birds;Drupe;5,2;0,081;0,013;0,029;1,0;0,023;0,029;0,884;0,011;0,056;Purple-black
+Daphne gnidium;Dap.gnid;Magnoliopsida;Malvales;Thymelaeaceae;Daphne;Shrub;Mized. Mainly Birds;Drupe;5,0;0,102;0,010;0,009;1,0;0,026;0,078;0,805;0,035;0,056;Red
+Myrtus communis;Myr.comm;Magnoliopsida;Myrtales;Myrtaceae;Myrtus;Shrub;Mixed. Mainly Birds;Berry;8,5;0,388;0,067;0,040;7,5;0,020;0,037;0,702;0,052;0,268;Blue-black
+Ficus carica;Fic.cari;Magnoliopsida;Rosales;Moraceae;Ficus;Tree;Mixed;Berry;30,6;13,910;1,277;1,327;1215,9;0,023;0,035;0,874;0,019;0,058;Green-purple
+Frangula alnus;Fra.alnu;Magnoliopsida;Rosales;Rhamnaceae;Frangula;Tree;Mixed. Mainly Birds;Drupe;6,9;0,185;0,019;0,042;2,6;0,014;0,044;0,744;0,118;0,081;Black
+Rhamnus lycioides;Rha.lyci;Magnoliopsida;Rosales;Rhamnaceae;Rhamnus;Shrub;Birds;Berry;6,1;0,132;0,031;0,031;2,5;0,009;0,051;0,882;0,012;0,046;Black
+Crataegus monogyna;Cra.mono;Magnoliopsida;Rosales;Rosaceae;Crataegus;Tree;Mixed;Drupe;9,3;0,675;0,171;0,124;1,0;0,023;0,025;0,724;0,043;0,205;Red
+Pyrus bourgaeana;Pyr.bour;Magnoliopsida;Rosales;Rosaceae;Pyrus;Tree;Mixed. Mainly Mammals;Berry;23,3;6,754;2,639;0,234;7,9;0,007;0,036;0,477;0,020;0,460;Green-brown
+Rubus ulmifolius;Rub.ulmi;Magnoliopsida;Rosales;Rosaceae;Rubus;Shrub;Mixed. Mainly Birds;Other;14,6;0,729;0,126;0,087;28,8;0,035;0,059;0,876;0,029;0,120;Black
+Osyris alba;Osy.alba;Magnoliopsida;Santalales;Santalaceae;Osyris;Shrub;Birds;Drupe;9,4;0,489;0,096;0,099;1,0;0,015;0,054;0,856;0,032;0,064;Orange-red
+Osyris lanceolata;Osy.lanc;Magnoliopsida;Santalales;Santalaceae;Osyris;Shrub;Mixed. Mainly Birds;Drupe;7,3;0,245;0,023;0,080;1,0;0,015;0,063;0,738;0,082;0,113;Orange
+Pistacia lentiscus;Pis.lent;Magnoliopsida;Sapindales;Anacardiaceae;Pistacia;Tree;Mixed. Mainly Birds;Drupe;5,3;0,102;0,029;0,025;1,0;0,588;0,055;0,258;0,025;0,077;Red-black
+Solanum nigrum;Sol.nigr;Magnoliopsida;Solanales;Solanaceae;Solanum;Herb;Birds;Berry;7,2;0,214;0,009;0,039;40,2;0,049;0,149;0,732;0,156;0,154;Purple-black
+Vitis vinifera;Vit.vini;Magnoliopsida;Vitales;Vitaceae;Vitis;Vine;Mixed. Mainly Birds;Drupe;9,8;0,639;0,133;0,049;1,8;0,017;0,024;0,868;0,025;0,065;Purple
+Juniperus macrocarpa;Jun.macr;Pinopsida;Pinales;Cupressaceae;Juniperus;Tree;Mixed. Mainly Mammals;Berry;9,7;0,467;0,180;0,087;1,4;0,104;0,025;0,519;0,030;0,338;Red-purple
+Juniperus phoenicea;Jun.phoe;Pinopsida;Pinales;Cupressaceae;Juniperus;Tree;Mixed;Berry;8,3;0,225;0,045;0,349;7,5;0,146;0,049;0,283;0,026;0,520;Red-brown
