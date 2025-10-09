@@ -3,7 +3,7 @@
 Datasets and code accompanying our manuscript "_A comprehensive, multi-method dataset of plant-frugivore interactions in a Mediterranean hotspot_" in review in _Scientific Data_. 
 Data Descriptor: 
 
-Authors
+Authors:
 Eva Moracho, 
 Juan Miguel Arroyo, 
 Blanca Arroyo-Correa, 
