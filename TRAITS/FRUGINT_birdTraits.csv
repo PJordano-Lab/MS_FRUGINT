@@ -1,60 +1,60 @@
-Frug_species;Frug_class;Frug_order;Frug_family;Frug_genus;Diet_fruit_prop;Frug_type;Body_mass;Culmen_width;Culmen_height;Wing_length;Tail_length;Tarsus_length;Gape_size;Gut_passage_time;IUCN;source
-Acrocephalus scirpaceus;Aves;Passeriformes;Acrocephalidae;Acrocephalus;0,001;NF;11,60;4,1;3,0;64,6;51,6;22,6;6,0;NA;LC;AVONET & Pedro Jordano data
-Aegithalos caudatus;Aves;Passeriformes;Aegithalidae;Aegithalos;0,313;PC;6,80;3,9;2,9;57,4;74,5;17,2;5,1;32,0;LC;Pedro Jordano data
-Alectoris rufa;Aves;Galliformes;Phasianidae;Alectoris;0,150;SD;528,00;NA;NA;154,7;91,1;42,6;NA;NA;LC;AVONET & Handbook of avian body masses
-Anthus pratensis;Aves;Passeriformes;Motacillidae;Anthus;0,001;NF;16,90;NA;NA;77,8;NA;NA;NA;NA;NT;AVONET & Pedro Jordano data
-Carduelis carduelis;Aves;Passeriformes;Fringillidae;Carduelis;0,001;NF;14,30;5,5;6,5;75,4;44,7;14,0;5,7;185,0;LC;Pedro Jordano data
-Chloris chloris;Aves;Passeriformes;Fringillidae;Chloris;0,595;SP;23,40;9,2;9,6;82,2;52,5;17,4;9,0;171,0;LC;Pedro Jordano data
-Coccothraustes coccothraustes;Aves;Passeriformes;Fringillidae;Coccothraustes;0,970;SP;46,00;14,4;14,5;102,3;53,5;21,2;16,5;111,0;LC;Pedro Jordano data
-Columba palumbus;Aves;Columbiformes;Columbidae;Columba;0,400;SD;490,00;9,0;NA;246,0;158,0;28,0;13,0;NA;LC;AVONET & Handbook of avian body masses
-Corvus corax;Aves;Passeriformes;Corvidae;Corvus;0,713;SD;1083,90;NA;NA;419,7;NA;NA;NA;NA;LC;AVONET & Pedro Jordano data
-Coloeus monedula;Aves;Passeriformes;Corvidae;Coloeus;0,460;SD;194,10;10,7;13,9;231,1;NA;44,6;12,6;NA;LC;AVONET & Pedro Jordano data
-Curruca communis;Aves;Passeriformes;Sylviidae;Sylvia;0,962;SD;16,90;4,2;3,8;71,2;62,3;21,4;7,3;40,8;LC;Pedro Jordano data
-Curruca conspicillata;Aves;Passeriformes;Sylviidae;Sylvia;0,450;SD;9,50;3,4;2,9;56,5;51,5;17,3;5,7;NA;LC;Pedro Jordano data
-Curruca hortensis;Aves;Passeriformes;Sylviidae;Sylvia;0,660;SD;25,00;4,9;4,4;76,2;65,8;22,1;8,3;NA;LC;Pedro Jordano data
-Curruca iberiae;Aves;Passeriformes;Sylviidae;Curruca;0,683;SD;10,90;3,5;2,8;58,2;54,5;18,3;5,7;30,1;NA;Pedro Jordano data
-Curruca melanocephala;Aves;Passeriformes;Sylviidae;Sylvia;0,739;SD;11,50;3,7;3,1;59,1;61,4;19,6;6,6;32,3;NA;Pedro Jordano data
-Curruca undata;Aves;Passeriformes;Sylviidae;Sylvia;0,383;SD;9,00;3,2;2,7;52,5;63,0;18,7;5,6;NA;NT;Pedro Jordano data
-Cyanistes caeruleus;Aves;Passeriformes;Paridae;Cyanistes;0,409;PC;9,70;4,1;3,9;62,8;49,4;16,7;5,1;77,0;LC;Pedro Jordano data
-Cyanopica cooki;Aves;Passeriformes;Corvidae;Cyanopica;0,660;SD;110,60;9,5;8,8;130,6;180,2;34,6;14,9;NA;LC;Pedro Jordano data
-Emberiza calandra;Aves;Passeriformes;Emberizidae;Emberiza;0,001;NF;50,10;8,1;9,3;101,0;73,0;25,8;10,3;NA;LC;Pedro Jordano data
-Emberiza schoeniclus;Aves;Passeriformes;Emberizidae;Emberiza;0,001;NF;20,80;NA;NA;77,9;NA;NA;NA;NA;LC;AVONET & Pedro Jordano data
-Erithacus rubecula;Aves;Passeriformes;Muscicapidae;Erithacus;0,659;SD;15,80;5,2;3,3;71,4;57,6;25,6;8,5;36,1;LC;Pedro Jordano data
-Ficedula hypoleuca;Aves;Passeriformes;Muscicapidae;Ficedula;0,344;SD;14,10;5,1;3,3;79,3;52,7;17,5;7,7;58,3;LC;Pedro Jordano data
-Fringilla coelebs;Aves;Passeriformes;Fringillidae;Fringilla;0,158;PC;19,60;6,8;6,8;83,7;62,7;18,3;7,1;92,0;LC;Pedro Jordano data
-Galerida cristata;Aves;Passeriformes;Alaudidae;Galerida;0,001;NF;36,50;5,6;5,8;104,0;63,5;24,7;9,4;NA;LC;Pedro Jordano data
-Hippolais polyglotta;Aves;Passeriformes;Acrocephalidae;Hippolais;0,008;SD;11,60;4,7;3,3;65,1;51,1;20,3;7,0;42,0;LC;Pedro Jordano data
-Iduna opaca;Aves;Passeriformes;Acrocephalidae;Iduna;0,200;PC;9,00;NA;NA;NA;NA;NA;NA;NA;LC;Elton Traits
-Iduna pallida;Aves;Passeriformes;Acrocephalidae;Iduna;0,200;PC;9,00;NA;NA;NA;NA;NA;NA;NA;LC;Elton Traits
-Lanius meridionalis;Aves;Passeriformes;Laniidae;Lanius;0,400;SD;62,30;7,4;9,4;108,6;116,7;30,0;15,2;NA;VU;Pedro Jordano data
-Lanius senator;Aves;Passeriformes;Laniidae;Lanius;0,387;SD;30,10;6,2;7,3;94,0;75,0;23,2;11,8;NA;LC;Pedro Jordano data
-Linaria cannabina;Aves;Passeriformes;Fringillidae;Linaria;0,001;NF;19,20;NA;NA;78,4;NA;NA;NA;NA;LC;AVONET & Pedro Jordano data
-Locustella naevia;Aves;Passeriformes;Locustellidae;Locustella;0,001;NF;14,50;3,7;3,4;61,2;NA;NA;6,9;NA;LC;AVONET & Pedro Jordano data
-Luscinia megarhynchos;Aves;Passeriformes;Muscicapidae;Luscinia;0,037;SD;22,20;4,5;3,9;80,9;66,1;26,6;8,8;11,0;LC;Pedro Jordano data
-Muscicapa striata;Aves;Passeriformes;Muscicapidae;Muscicapa;0,147;SD;15,20;5,9;3,8;85,5;59,6;14,8;9,2;54,0;LC;Pedro Jordano data
-Oriolus oriolus;Aves;Passeriformes;Oriolidae;Oriolus;0,850;SD;71,90;NA;NA;151,6;NA;NA;NA;NA;LC;AVONET & Pedro Jordano data
-Parus major;Aves;Passeriformes;Paridae;Parus;0,587;PC;17,20;5,5;4,5;73,7;62,3;20,2;6,9;67,0;LC;Pedro Jordano data
-Passer domesticus;Aves;Passeriformes;Passeridae;Passer;0,050;PC;27,40;NA;NA;74,9;NA;NA;NA;NA;LC;AVONET & Pedro Jordano data
-Passer hispaniolensis;Aves;Passeriformes;Passeridae;Passer;0,050;PC;23,50;NA;NA;76,4;NA;NA;NA;NA;LC;AVONET & Pedro Jordano data
-Petronia petronia;Aves;Passeriformes;Passeridae;Petronia;0,001;NF;33,00;NA;NA;93,0;NA;NA;NA;NA;LC;AVONET & Pedro Jordano data
-Phoenicurus ochruros;Aves;Passeriformes;Muscicapidae;Phoenicurus;0,500;SD;16,40;5,1;3,5;87,3;63,6;23,2;8,4;25,0;LC;Pedro Jordano data
-Phoenicurus phoenicurus;Aves;Passeriformes;Muscicapidae;Phoenicurus;0,482;SD;15,00;4,7;3,4;78,3;57,4;22,0;8,0;36,4;LC;Pedro Jordano data
-Phylloscopus collybita;Aves;Passeriformes;Phylloscopidae;Phylloscopus;0,008;SD;7,30;3,5;2,3;57,2;46,8;19,5;4,9;81,0;LC;Pedro Jordano data
-Phylloscopus trochilus;Aves;Passeriformes;Phylloscopidae;Phylloscopus;0,010;SD;9,70;3,5;2,6;64,2;48,3;19,3;4,9;76,0;LC;Pedro Jordano data
-Pica pica;Aves;Passeriformes;Corvidae;Pica;0,530;SD;166,00;11,4;14,3;194,5;NA;49,2;12,8;NA;LC;AVONET & Pedro Jordano data
-Pyrrhula pyrrhula;Aves;Passeriformes;Fringillidae;Pyrrhula;0,010;PC;21,40;9,4;8,7;79,5;59,0;16,0;9,4;NA;LC;Pedro Jordano data
-Regulus ignicapilla;Aves;Passeriformes;Regulidae;Regulus;0,001;NF;5,60;NA;NA;NA;NA;NA;NA;NA;LC;Elton Traits
-Saxicola rubetra;Aves;Passeriformes;Muscicapidae;Saxicola;0,050;SD;16,00;NA;NA;76,4;NA;NA;NA;NA;LC;AVONET & Pedro Jordano data
-Saxicola rubicola;Aves;Passeriformes;Muscicapidae;Saxicola;0,007;SD;14,90;4,6;3,7;64,8;45,5;22,5;8,5;46,0;LC;Pedro Jordano data
-Scolopax rusticola;Aves;Charadriiformes;Scolopacidae;Scolopax;0,100;NF;308,31;NA;NA;NA;NA;NA;NA;NA;LC;Elton Traits
-Streptopelia decaocto;Aves;Columbiformes;Columbidae;Streptopelia;0,300;SD;149,00;NA;NA;173,7;134,2;20,8;NA;NA;LC;AVONET & Handbook of avian body masses
-Sturnus unicolor;Aves;Passeriformes;Sturnidae;Sturnus;0,800;SD;62,00;7,5;6,7;128,0;64,0;28,5;9,5;NA;LC;Pedro Jordano data
-Sturnus vulgaris;Aves;Passeriformes;Sturnidae;Sturnus;0,800;SD;73,50;NA;NA;128,3;NA;NA;NA;NA;LC;AVONET & Pedro Jordano data
-Sylvia atricapilla;Aves;Passeriformes;Sylviidae;Sylvia;0,861;SD;17,50;5,0;3,6;72,8;60,4;20,7;8,0;34,4;LC;Pedro Jordano data
-Sylvia borin;Aves;Passeriformes;Sylviidae;Sylvia;0,924;SD;18,70;4,7;3,7;76,3;55,3;20,1;8,0;44,6;LC;Pedro Jordano data
-Turdus iliacus;Aves;Passeriformes;Turdidae;Turdus;0,980;SD;62,90;7,5;5,8;116,5;78,8;28,4;12,1;71,2;NT;Pedro Jordano data
-Turdus merula;Aves;Passeriformes;Turdidae;Turdus;0,889;SD;84,00;8,1;7,1;123,4;109,7;33,7;13,7;76,8;LC;Pedro Jordano data
-Turdus philomelos;Aves;Passeriformes;Turdidae;Turdus;0,989;SD;65,80;6,6;6,1;116,0;80,7;32,4;12,2;42,5;LC;Pedro Jordano data
-Turdus pilaris;Aves;Passeriformes;Turdidae;Turdus;0,998;SD;95,90;6,7;5,5;145,7;102,2;33,2;11,7;NA;LC;Pedro Jordano data
-Turdus torquatus;Aves;Passeriformes;Turdidae;Turdus;0,962;SD;111,90;6,7;5,5;137,1;102,2;33,3;11,5;NA;LC;Pedro Jordano data
-Turdus viscivorus;Aves;Passeriformes;Turdidae;Turdus;0,940;SD;100,10;11,0;7,0;149,5;105,8;33,4;16,8;80,0;LC;Pedro Jordano data
+Frug_species;Frug_code;Frug_class;Frug_order;Frug_family;Frug_genus;Diet_fruit_prop;Frug_type;Body_mass;Culmen_width;Culmen_height;Wing_length;Tail_length;Tarsus_length;Gape_size;Gut_passage_time;IUCN;source
+Acrocephalus scirpaceus;Acr.scir;Aves;Passeriformes;Acrocephalidae;Acrocephalus;0,001;NF;11,60;4,1;3,0;64,6;51,6;22,6;6,0;NA;LC;https://doi.org/10.1111/ele.13898 & Original data
+Aegithalos caudatus;Aeg.caud;Aves;Passeriformes;Aegithalidae;Aegithalos;0,313;PC;6,80;3,9;2,9;57,4;74,5;17,2;5,1;32,0;LC;Original data
+Alectoris rufa;Ale.rufa;Aves;Galliformes;Phasianidae;Alectoris;0,150;SD;528,00;NA;NA;154,7;91,1;42,6;NA;NA;LC;https://doi.org/10.1111/ele.13898 & https://doi.org/10.1201/9781420064452
+Anthus pratensis;Ant.prat;Aves;Passeriformes;Motacillidae;Anthus;0,001;NF;16,90;NA;NA;77,8;NA;NA;NA;NA;NT;https://doi.org/10.1111/ele.13898 & Original data
+Carduelis carduelis;Car.card;Aves;Passeriformes;Fringillidae;Carduelis;0,001;NF;14,30;5,5;6,5;75,4;44,7;14,0;5,7;185,0;LC;Original data
+Chloris chloris;Chl.chlo;Aves;Passeriformes;Fringillidae;Chloris;0,595;SP;23,40;9,2;9,6;82,2;52,5;17,4;9,0;171,0;LC;Original data
+Coccothraustes coccothraustes;Coc.cocc;Aves;Passeriformes;Fringillidae;Coccothraustes;0,970;SP;46,00;14,4;14,5;102,3;53,5;21,2;16,5;111,0;LC;Original data
+Columba palumbus;Col.palu;Aves;Columbiformes;Columbidae;Columba;0,400;SD;490,00;9,0;NA;246,0;158,0;28,0;13,0;NA;LC;https://doi.org/10.1111/ele.13898 & https://doi.org/10.1201/9781420064452
+Corvus corax;Cor.cora;Aves;Passeriformes;Corvidae;Corvus;0,713;SD;1083,90;NA;NA;419,7;NA;NA;NA;NA;LC;https://doi.org/10.1111/ele.13898 & Original data
+Coloeus monedula;Col.mone;Aves;Passeriformes;Corvidae;Coloeus;0,460;SD;194,10;10,7;13,9;231,1;NA;44,6;12,6;NA;LC;https://doi.org/10.1111/ele.13898 & Original data
+Curruca communis;Cur.comm;Aves;Passeriformes;Sylviidae;Sylvia;0,962;SD;16,90;4,2;3,8;71,2;62,3;21,4;7,3;40,8;LC;Original data
+Curruca conspicillata;Cur.cons;Aves;Passeriformes;Sylviidae;Sylvia;0,450;SD;9,50;3,4;2,9;56,5;51,5;17,3;5,7;NA;LC;Original data
+Curruca hortensis;Cur.hort;Aves;Passeriformes;Sylviidae;Sylvia;0,660;SD;25,00;4,9;4,4;76,2;65,8;22,1;8,3;NA;LC;Original data
+Curruca iberiae;Cur.iber;Aves;Passeriformes;Sylviidae;Curruca;0,683;SD;10,90;3,5;2,8;58,2;54,5;18,3;5,7;30,1;NA;Original data
+Curruca melanocephala;Cur.mela;Aves;Passeriformes;Sylviidae;Sylvia;0,739;SD;11,50;3,7;3,1;59,1;61,4;19,6;6,6;32,3;NA;Original data
+Curruca undata;Cur.unda;Aves;Passeriformes;Sylviidae;Sylvia;0,383;SD;9,00;3,2;2,7;52,5;63,0;18,7;5,6;NA;NT;Original data
+Cyanistes caeruleus;Cya.caer;Aves;Passeriformes;Paridae;Cyanistes;0,409;PC;9,70;4,1;3,9;62,8;49,4;16,7;5,1;77,0;LC;Original data
+Cyanopica cooki;Cya.cook;Aves;Passeriformes;Corvidae;Cyanopica;0,660;SD;110,60;9,5;8,8;130,6;180,2;34,6;14,9;NA;LC;Original data
+Emberiza calandra;Ema.cala;Aves;Passeriformes;Emberizidae;Emberiza;0,001;NF;50,10;8,1;9,3;101,0;73,0;25,8;10,3;NA;LC;Original data
+Emberiza schoeniclus;Emb.scho;Aves;Passeriformes;Emberizidae;Emberiza;0,001;NF;20,80;NA;NA;77,9;NA;NA;NA;NA;LC;https://doi.org/10.1111/ele.13898 & Original data
+Erithacus rubecula;Eri.rube;Aves;Passeriformes;Muscicapidae;Erithacus;0,659;SD;15,80;5,2;3,3;71,4;57,6;25,6;8,5;36,1;LC;Original data
+Ficedula hypoleuca;Fic.hypo;Aves;Passeriformes;Muscicapidae;Ficedula;0,344;SD;14,10;5,1;3,3;79,3;52,7;17,5;7,7;58,3;LC;Original data
+Fringilla coelebs;Fri.coel;Aves;Passeriformes;Fringillidae;Fringilla;0,158;PC;19,60;6,8;6,8;83,7;62,7;18,3;7,1;92,0;LC;Original data
+Galerida cristata;Gal.cris;Aves;Passeriformes;Alaudidae;Galerida;0,001;NF;36,50;5,6;5,8;104,0;63,5;24,7;9,4;NA;LC;Original data
+Hippolais polyglotta;Hip.poly;Aves;Passeriformes;Acrocephalidae;Hippolais;0,008;SD;11,60;4,7;3,3;65,1;51,1;20,3;7,0;42,0;LC;Original data
+Iduna opaca;Idu.opac;Aves;Passeriformes;Acrocephalidae;Iduna;0,200;PC;9,00;NA;NA;NA;NA;NA;NA;NA;LC;https://doi.org/10.1890/13-1917.1
+Iduna pallida;Idu.pall;Aves;Passeriformes;Acrocephalidae;Iduna;0,200;PC;9,00;NA;NA;NA;NA;NA;NA;NA;LC;https://doi.org/10.1890/13-1917.1
+Lanius meridionalis;Lan..meri;Aves;Passeriformes;Laniidae;Lanius;0,400;SD;62,30;7,4;9,4;108,6;116,7;30,0;15,2;NA;VU;Original data
+Lanius senator;Lan.sena;Aves;Passeriformes;Laniidae;Lanius;0,387;SD;30,10;6,2;7,3;94,0;75,0;23,2;11,8;NA;LC;Original data
+Linaria cannabina;Lin.cann;Aves;Passeriformes;Fringillidae;Linaria;0,001;NF;19,20;NA;NA;78,4;NA;NA;NA;NA;LC;https://doi.org/10.1111/ele.13898 & Original data
+Locustella naevia;Loc.naev;Aves;Passeriformes;Locustellidae;Locustella;0,001;NF;14,50;3,7;3,4;61,2;NA;NA;6,9;NA;LC;https://doi.org/10.1111/ele.13898 & Original data
+Luscinia megarhynchos;Lus.mega;Aves;Passeriformes;Muscicapidae;Luscinia;0,037;SD;22,20;4,5;3,9;80,9;66,1;26,6;8,8;11,0;LC;Original data
+Muscicapa striata;Mus.stri;Aves;Passeriformes;Muscicapidae;Muscicapa;0,147;SD;15,20;5,9;3,8;85,5;59,6;14,8;9,2;54,0;LC;Original data
+Oriolus oriolus;Ori.orio;Aves;Passeriformes;Oriolidae;Oriolus;0,850;SD;71,90;NA;NA;151,6;NA;NA;NA;NA;LC;https://doi.org/10.1111/ele.13898 & Original data
+Parus major;Par.majo;Aves;Passeriformes;Paridae;Parus;0,587;PC;17,20;5,5;4,5;73,7;62,3;20,2;6,9;67,0;LC;Original data
+Passer domesticus;Pas.dome;Aves;Passeriformes;Passeridae;Passer;0,050;PC;27,40;NA;NA;74,9;NA;NA;NA;NA;LC;https://doi.org/10.1111/ele.13898 & Original data
+Passer hispaniolensis;Pas.hisp;Aves;Passeriformes;Passeridae;Passer;0,050;PC;23,50;NA;NA;76,4;NA;NA;NA;NA;LC;https://doi.org/10.1111/ele.13898 & Original data
+Petronia petronia;Pet.petr;Aves;Passeriformes;Passeridae;Petronia;0,001;NF;33,00;NA;NA;93,0;NA;NA;NA;NA;LC;https://doi.org/10.1111/ele.13898 & Original data
+Phoenicurus ochruros;Pho.ochr;Aves;Passeriformes;Muscicapidae;Phoenicurus;0,500;SD;16,40;5,1;3,5;87,3;63,6;23,2;8,4;25,0;LC;Original data
+Phoenicurus phoenicurus;Pho.phoe;Aves;Passeriformes;Muscicapidae;Phoenicurus;0,482;SD;15,00;4,7;3,4;78,3;57,4;22,0;8,0;36,4;LC;Original data
+Phylloscopus collybita;Phy.coll;Aves;Passeriformes;Phylloscopidae;Phylloscopus;0,008;SD;7,30;3,5;2,3;57,2;46,8;19,5;4,9;81,0;LC;Original data
+Phylloscopus trochilus;Phy.troc;Aves;Passeriformes;Phylloscopidae;Phylloscopus;0,010;SD;9,70;3,5;2,6;64,2;48,3;19,3;4,9;76,0;LC;Original data
+Pica pica;Pic.pica;Aves;Passeriformes;Corvidae;Pica;0,530;SD;166,00;11,4;14,3;194,5;NA;49,2;12,8;NA;LC;https://doi.org/10.1111/ele.13898 & Original data
+Pyrrhula pyrrhula;Pyr.pyrr;Aves;Passeriformes;Fringillidae;Pyrrhula;0,010;PC;21,40;9,4;8,7;79,5;59,0;16,0;9,4;NA;LC;Original data
+Regulus ignicapilla;Reg.igni;Aves;Passeriformes;Regulidae;Regulus;0,001;NF;5,60;NA;NA;NA;NA;NA;NA;NA;LC;https://doi.org/10.1890/13-1917.1
+Saxicola rubetra;Sax.rube;Aves;Passeriformes;Muscicapidae;Saxicola;0,050;SD;16,00;NA;NA;76,4;NA;NA;NA;NA;LC;https://doi.org/10.1111/ele.13898 & Original data
+Saxicola rubicola;Sax.rubi;Aves;Passeriformes;Muscicapidae;Saxicola;0,007;SD;14,90;4,6;3,7;64,8;45,5;22,5;8,5;46,0;LC;Original data
+Scolopax rusticola;Sco.rust;Aves;Charadriiformes;Scolopacidae;Scolopax;0,100;NF;308,31;NA;NA;NA;NA;NA;NA;NA;LC;https://doi.org/10.1890/13-1917.1
+Streptopelia decaocto;Str.deca;Aves;Columbiformes;Columbidae;Streptopelia;0,300;SD;149,00;NA;NA;173,7;134,2;20,8;NA;NA;LC;https://doi.org/10.1111/ele.13898 & https://doi.org/10.1201/9781420064452
+Sturnus unicolor;Stu.unic;Aves;Passeriformes;Sturnidae;Sturnus;0,800;SD;62,00;7,5;6,7;128,0;64,0;28,5;9,5;NA;LC;Original data
+Sturnus vulgaris;Stu.vulg;Aves;Passeriformes;Sturnidae;Sturnus;0,800;SD;73,50;NA;NA;128,3;NA;NA;NA;NA;LC;https://doi.org/10.1111/ele.13898 & Original data
+Sylvia atricapilla;Syl.atri;Aves;Passeriformes;Sylviidae;Sylvia;0,861;SD;17,50;5,0;3,6;72,8;60,4;20,7;8,0;34,4;LC;Original data
+Sylvia borin;Syl.bori;Aves;Passeriformes;Sylviidae;Sylvia;0,924;SD;18,70;4,7;3,7;76,3;55,3;20,1;8,0;44,6;LC;Original data
+Turdus iliacus;Tur.ilia;Aves;Passeriformes;Turdidae;Turdus;0,980;SD;62,90;7,5;5,8;116,5;78,8;28,4;12,1;71,2;NT;Original data
+Turdus merula;Tur.meru;Aves;Passeriformes;Turdidae;Turdus;0,889;SD;84,00;8,1;7,1;123,4;109,7;33,7;13,7;76,8;LC;Original data
+Turdus philomelos;Tur.phil;Aves;Passeriformes;Turdidae;Turdus;0,989;SD;65,80;6,6;6,1;116,0;80,7;32,4;12,2;42,5;LC;Original data
+Turdus pilaris;Tur.pila;Aves;Passeriformes;Turdidae;Turdus;0,998;SD;95,90;6,7;5,5;145,7;102,2;33,2;11,7;NA;LC;Original data
+Turdus torquatus;Tur.torq;Aves;Passeriformes;Turdidae;Turdus;0,962;SD;111,90;6,7;5,5;137,1;102,2;33,3;11,5;NA;LC;Original data
+Turdus viscivorus;Tur.visc;Aves;Passeriformes;Turdidae;Turdus;0,940;SD;100,10;11,0;7,0;149,5;105,8;33,4;16,8;80,0;LC;Original data

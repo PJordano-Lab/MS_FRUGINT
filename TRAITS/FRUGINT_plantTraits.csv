@@ -1,4 +1,4 @@
-Plant_species;plantSp;Plant_class;Plant_order;Plant_family;Plant_genus;Plant_form;Disperser_taxa;Fruit_type;Fruit_diameter;Fruit_fresh_mass;Pulp_dry_mass;Seed_dry_mass;Seed_number;Lipid_prop;Protein_prop;CH_prop;Ash_prop;Fiber_prop;Fruit_color
+Plant_species;Plant_code;Plant_class;Plant_order;Plant_family;Plant_genus;Plant_form;Disperser_taxa;Fruit_type;Fruit_diameter;Fruit_fresh_mass;Pulp_dry_mass;Seed_dry_mass;Seed_number;Lipid_prop;Protein_prop;CH_prop;Ash_prop;Fiber_prop;Fruit_color
 Chamaerops humilis;Cha.humi;Liliopsida;Arecales;Arecaceae;Chamaerops;Palm;Mammals;Drupe;13,9;1,712;0,652;0,669;1,0;0,013;0,032;0,772;0,036;0,183;Brown-red
 Asparagus acutifolius;Asp.acut;Liliopsida;Asparagales;Asparagaceae;Asparagus;Shrub;Birds;Berry;7,1;0,147;0,047;0,044;1,1;0,024;0,054;NA;0,086;NA;Blue-black
 Ruscus aculeatus;Rus.acul;Liliopsida;Asparagales;Asparagaceae;Ruscus;Shrub;Birds;Other;11,9;0,984;0,142;0,243;1,4;0,009;0,055;0,738;0,053;0,149;Red
